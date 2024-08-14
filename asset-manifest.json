@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Sachin-75/Mainframe_design.git/static/css/main.4030c95b.css",
-    "main.js": "/Sachin-75/Mainframe_design.git/static/js/main.66d112c8.js",
-    "static/js/453.30216eaf.chunk.js": "/Sachin-75/Mainframe_design.git/static/js/453.30216eaf.chunk.js",
-    "static/media/hero.jpg": "/Sachin-75/Mainframe_design.git/static/media/hero.35345e2455df2ac6b096.jpg",
-    "static/media/logo.png": "/Sachin-75/Mainframe_design.git/static/media/logo.c1fe05688cff058bb6fc.png",
-    "static/media/png1.png": "/Sachin-75/Mainframe_design.git/static/media/png1.8b39ea917a74ab7fe644.png",
-    "index.html": "/Sachin-75/Mainframe_design.git/index.html",
-    "main.4030c95b.css.map": "/Sachin-75/Mainframe_design.git/static/css/main.4030c95b.css.map",
-    "main.66d112c8.js.map": "/Sachin-75/Mainframe_design.git/static/js/main.66d112c8.js.map",
-    "453.30216eaf.chunk.js.map": "/Sachin-75/Mainframe_design.git/static/js/453.30216eaf.chunk.js.map"
+    "main.css": "/Sachin-75/Mainframe_design/static/css/main.caaea899.css",
+    "main.js": "/Sachin-75/Mainframe_design/static/js/main.0f19fda5.js",
+    "static/js/453.30216eaf.chunk.js": "/Sachin-75/Mainframe_design/static/js/453.30216eaf.chunk.js",
+    "static/media/hero.jpg": "/Sachin-75/Mainframe_design/static/media/hero.35345e2455df2ac6b096.jpg",
+    "static/media/logo.png": "/Sachin-75/Mainframe_design/static/media/logo.c1fe05688cff058bb6fc.png",
+    "static/media/png1.png": "/Sachin-75/Mainframe_design/static/media/png1.8b39ea917a74ab7fe644.png",
+    "index.html": "/Sachin-75/Mainframe_design/index.html",
+    "main.caaea899.css.map": "/Sachin-75/Mainframe_design/static/css/main.caaea899.css.map",
+    "main.0f19fda5.js.map": "/Sachin-75/Mainframe_design/static/js/main.0f19fda5.js.map",
+    "453.30216eaf.chunk.js.map": "/Sachin-75/Mainframe_design/static/js/453.30216eaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4030c95b.css",
-    "static/js/main.66d112c8.js"
+    "static/css/main.caaea899.css",
+    "static/js/main.0f19fda5.js"
   ]
 }
